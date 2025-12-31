@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# 📅 React Date Counter
+
+A simple yet powerful tool to calculate days from today or past dates using dynamic steps.
+
+## 🚀 Features
+- **Dynamic Step Control:** Adjust the counting interval using a range slider.
+- **Manual Input:** Directly type the number of days.
+- **Live Calculation:** Instantly see the date change as you interact.
+- **Reset Button:** Quickly return to today's date with a single click.
+
+## 🛠️ Built With
+- React.js (Hooks: `useState`)
+- CSS3 (Custom body scaling for better visibility)
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
